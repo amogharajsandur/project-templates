@@ -40,3 +40,9 @@ This repository follows the **Clean Architecture** principles to ensure modulari
 To pull a specific template without the entire repository history:
 ```bash
 npx degit your-username/project-templates/vite-react-scss my-new-app
+```
+
+Manual Installation:
+* Navigate to the template folder: `cd vite-react-scss`
+* Install dependencies: `npm install`
+* Start dev server: `npm run dev`
