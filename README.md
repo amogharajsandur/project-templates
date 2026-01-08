@@ -1,3 +1,9 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
 # 🛠️ Project Templates
 
 A centralized collection of production-ready project boilerplates and standardized folder structures. This repository is designed to eliminate repetitive setup time and enforce consistent architectural patterns across different stacks.
